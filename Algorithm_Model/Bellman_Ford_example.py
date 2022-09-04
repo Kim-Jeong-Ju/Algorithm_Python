@@ -29,3 +29,14 @@ def bellman_ford(start):
                 if round == node_cnt - 1:       # N번째 round에서도 갱신이 발생한다면
                     return True                 # 이 그래프는 (-) cycle을 포함
     return False
+
+check_negative_cycle = bellman_ford(1)
+
+if check_negative_cycle:
+    print("This Graph has Negative Cycle")
+else:
+    for node in range(2, node_cnt + 1):
+        if distance[node] == INF:
+            print("Unreachable Node")
+        else:
+            print(distance[node])
