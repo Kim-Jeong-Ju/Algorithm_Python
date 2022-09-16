@@ -1,4 +1,4 @@
-## Shortest Path - Bellman Ford Algorithm Example Code -- 이해 필요
+## Shortest Path - Bellman Ford Algorithm Example Code
 ## 특정 node -> 다른 모든 node로 가는 최단 경로 계산, 단 negative edge로 인한 negative cycle 발생 시 사용
 
 # N개의 노드와 M개의 간선에 대해 간선 중 0의 cost와 (-)값의 cost를 갖는 간선이 존재할 때, 1번 node로부터 다른 모든 노드까지
