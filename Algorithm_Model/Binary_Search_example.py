@@ -49,5 +49,8 @@ else:
 
 print()
 
+
+
+
 print(bisect_left(array, target))
 print(bisect_right(array, target))

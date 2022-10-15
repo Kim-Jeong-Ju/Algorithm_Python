@@ -13,6 +13,8 @@ def normal_is_prime(num):           # 일반적인 소수 판별법 : 시간복�
 print(f"일반적인 소수 판별법 : {normal_is_prime(n)}")
 
 
+
+
 def advanced_is_prime(num):         # 개선된 소수 판별법 : 제곱근의 정수형 숫자까지만 반복, 시간복잡도 = O(sqrt(N))
     for x in range(2, int(math.sqrt(num)) + 1):
         if num % x == 0:

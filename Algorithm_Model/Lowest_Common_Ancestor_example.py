@@ -83,14 +83,17 @@ def advanced_lca(a, b):                     # 개선된 최소 공통 조상(LCA
 
     return advanced_parent[a][0]
 
-normal_dfs_depth(1, 0)
-
 m = int(input())
 
+normal_dfs_depth(1, 0)
 for _ in range(m):
     a, b = map(int, input().split())
     print(normal_lca(a, b))
 print()
+
+
+
+
 set_parent()
 for _ in range(m):
     a, b = map(int, input().split())

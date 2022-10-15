@@ -28,6 +28,9 @@ def validate_topdown_fibo(num):
 validate_topdown_fibo(6)
 print()
 
+
+
+
 dp2 = [0] * 100                # Bottom-Up(DP)를 통한 피보나치 수열 구현
 dp2[1] = 1
 dp2[2] = 1

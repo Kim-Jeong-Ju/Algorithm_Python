@@ -25,6 +25,7 @@ print(count)
 
 
 
+
 ## N개의 자연수로 구성된 수열에 대하여 left_index, right_index 쿼리가 주어질 때, 주어진 구간 내의 합을 구하는 프로그램을 작성하라.
 
 n, left_idx, right_idx = map(int, input().split())

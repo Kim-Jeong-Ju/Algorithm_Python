@@ -10,6 +10,9 @@ INF = int(1e9)
 node, edge = map(int, input().split())
 start = int(input())
 
+
+
+
 graph1 = [[] for _ in range(node + 1)]       # graph 초기화
 visited = [False] * (node + 1)              # 방문 여부를 기록하는 list 초기화
 distance1 = [INF] * (node + 1)               # 최단 거리를 기록하는 table 초기화
@@ -50,6 +53,8 @@ for vertex in range(node + 1):
         print("INFINITE distance")
 
 
+
+
 graph2 = [[] for _ in range(node + 1)]       # graph 초기화
 distance2 = [INF] * (node + 1)               # 최단 거리를 기록하는 table 초기화
 
@@ -59,7 +64,7 @@ for _ in range(edge):
 
 def queue_dijkstra(start):                          # 우선순위 큐를 이용한 다익스트라 알고리즘 구현
     queue = []
-    heapq.heappush(queue, (0, start))               # queue에는 (인접 node, 거리)가 아닌 (거리, 인접 노드)로 저장
+    heapq.heappush(queue, (0, start))               # queue에는 (인접 node, 거리)가 아닌 (거리, 인접 node)로 저장
     distance2[start] = 0
 
     while queue:
