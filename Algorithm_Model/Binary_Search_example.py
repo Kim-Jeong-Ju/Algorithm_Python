@@ -10,7 +10,7 @@ def bisect_recursive(array, target, start, end):     # 재귀 호출을 이용�
     if start > end:
         return None
 
-    mid = (start + end) // 2    # 중간점 = (시작점 + 끝점) / 2 값의 소수점 버림
+    mid = (start + end) // 2        # 중간점 = (시작점 + 끝점) / 2 값의 소수점 버림
 
     if array[mid] == target:        # 중간점 = 찾는값이면, 정답 출력
         return mid
@@ -21,7 +21,7 @@ def bisect_recursive(array, target, start, end):     # 재귀 호출을 이용�
 
 def bisect_iteration(array, target, start, end):        # 반복문을 이용한 이진 탐색 구현
     while start <= end:
-        mid = (start + end) // 2  # 중간점 = (시작점 + 끝점) / 2 값의 소수점 버림
+        mid = (start + end) // 2        # 중간점 = (시작점 + 끝점) / 2 값의 소수점 버림
 
         if array[mid] == target:        # 중간점 = 찾는값이면, 정답 출력
             return mid
