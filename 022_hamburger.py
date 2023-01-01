@@ -1,4 +1,4 @@
-## 문제 021. 햄버거 만들기 - 프로그래머스 Lv.1 연습 문제
+## 문제 022. 햄버거 만들기 --- 프로그래머스 Lv.1 연습 문제
 
 ingredient = "".join(list(map(int, input().split())))
 
