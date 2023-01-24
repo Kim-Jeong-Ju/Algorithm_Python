@@ -2,7 +2,6 @@
 
 from itertools import permutations
 
-
 def calc(num1, operand, num2):
     if operand == "+":
         return str(int(num1) + int(num2))
