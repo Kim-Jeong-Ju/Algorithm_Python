@@ -1,4 +1,4 @@
-## 문제 027. 방금 그 곡 - 프로그래머스 Lv.2 연습 문제
+## 문제 027. 방금 그 곡 --- 프로그래머스 Lv.2 연습 문제
 
 def calc_time(start, end):
     start_hour, start_min = int(start[:2]), int(start[3:])

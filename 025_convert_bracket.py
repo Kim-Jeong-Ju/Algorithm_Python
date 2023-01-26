@@ -1,4 +1,4 @@
-## 문제 025. 괄호 변환 - 프로그래머스 Lv.2 연습 문제
+## 문제 025. 괄호 변환 --- 프로그래머스 Lv.2 연습 문제
 
 def bracket_split(string):  # u와 v 2가지 string으로 나누는 작업
     left, right, stop = 0, 0, 0

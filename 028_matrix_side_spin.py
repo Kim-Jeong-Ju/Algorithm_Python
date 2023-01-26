@@ -1,4 +1,4 @@
-## 문제 028. 행렬 테두리 회전하기 - 프로그래머스 Lv.2 연습 문제
+## 문제 028. 행렬 테두리 회전하기 --- 프로그래머스 Lv.2 연습 문제
 
 def min_take(array, rows, cols, a, b, c, d):
     mini = rows * cols

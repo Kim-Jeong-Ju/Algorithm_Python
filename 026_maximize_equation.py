@@ -1,4 +1,4 @@
-## 문제 026. 수식 최대화 - 프로그래머스 Lv.2 연습 문제
+## 문제 026. 수식 최대화 --- 프로그래머스 Lv.2 연습 문제
 
 from itertools import permutations
 
