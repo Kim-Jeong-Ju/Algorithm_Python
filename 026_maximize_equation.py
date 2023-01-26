@@ -31,12 +31,8 @@ def solution(expression):
     for beta in expression:
         if (beta == "+" or beta == "-" or beta == "*") and beta not in opers:
             opers.append(beta)
-    print(equations)
 
     cases = list(permutations(opers, len(opers)))
-    print(cases)
-    print()
-
     maxi = 0
     for case in cases:
         array = []
@@ -53,7 +49,6 @@ def solution(expression):
                         pass_idx = a+1
                     else:
                         stack.append(equations[a])
-                    print(stack)
                 array.append(stack)
 
             else:
@@ -67,7 +62,6 @@ def solution(expression):
                         pass_idx = b + 1
                     else:
                         stack.append(last_equat[b])
-                    print(stack)
                 array.append(stack)
 
         now = abs(int(array[-1][0]))
