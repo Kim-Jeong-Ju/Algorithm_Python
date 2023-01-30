@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0126_알고리즘_Programmers풀이_8">
-      <change beforePath="$PROJECT_DIR$/024_quadtree_compress.py" beforeDir="false" afterPath="$PROJECT_DIR$/024_quadtree_compress.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/025_convert_bracket.py" beforeDir="false" afterPath="$PROJECT_DIR$/025_convert_bracket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/026_maximize_equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/026_maximize_equation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/027_kakao_music.py" beforeDir="false" afterPath="$PROJECT_DIR$/027_kakao_music.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/028_matrix_side_spin.py" beforeDir="false" afterPath="$PROJECT_DIR$/028_matrix_side_spin.py" afterDir="false" />
+    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0126_알고리즘_Programmers풀이_9">
+      <change afterPath="$PROJECT_DIR$/029_delivery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674724877168</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="0126_알고리즘_Programmers풀이_9">
+      <created>1674725005567</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674725005567</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +135,7 @@
     <MESSAGE value="0125_알고리즘_Programmers풀이_6" />
     <MESSAGE value="0125_알고리즘_Programmers풀이_7" />
     <MESSAGE value="0126_알고리즘_Programmers풀이_8" />
-    <option name="LAST_COMMIT_MESSAGE" value="0126_알고리즘_Programmers풀이_8" />
+    <MESSAGE value="0126_알고리즘_Programmers풀이_9" />
+    <option name="LAST_COMMIT_MESSAGE" value="0126_알고리즘_Programmers풀이_9" />
   </component>
 </project>
