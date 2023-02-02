@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0126_알고리즘_Programmers풀이_9">
-      <change afterPath="$PROJECT_DIR$/029_delivery.py" afterDir="false" />
+    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0131_알고리즘_Programmers풀이_10">
+      <change afterPath="$PROJECT_DIR$/030_flatten.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674725005567</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="0131_알고리즘_Programmers풀이_10">
+      <created>1675097287860</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675097287860</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +143,7 @@
     <MESSAGE value="0125_알고리즘_Programmers풀이_7" />
     <MESSAGE value="0126_알고리즘_Programmers풀이_8" />
     <MESSAGE value="0126_알고리즘_Programmers풀이_9" />
-    <option name="LAST_COMMIT_MESSAGE" value="0126_알고리즘_Programmers풀이_9" />
+    <MESSAGE value="0131_알고리즘_Programmers풀이_10" />
+    <option name="LAST_COMMIT_MESSAGE" value="0131_알고리즘_Programmers풀이_10" />
   </component>
 </project>
