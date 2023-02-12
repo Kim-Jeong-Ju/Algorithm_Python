@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0203_알고리즘_Programmers풀이_12">
-      <change afterPath="$PROJECT_DIR$/033_number_convert.py" afterDir="false" />
+    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0203_알고리즘_Programmers풀이_13">
+      <change afterPath="$PROJECT_DIR$/034_master_of_self_playing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675434499885</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="0203_알고리즘_Programmers풀이_13">
+      <created>1675435059420</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675435059420</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +175,7 @@
     <MESSAGE value="0202_알고리즘_SWEA풀이_1" />
     <MESSAGE value="0203_알고리즘_Programmers풀이_11" />
     <MESSAGE value="0203_알고리즘_Programmers풀이_12" />
-    <option name="LAST_COMMIT_MESSAGE" value="0203_알고리즘_Programmers풀이_12" />
+    <MESSAGE value="0203_알고리즘_Programmers풀이_13" />
+    <option name="LAST_COMMIT_MESSAGE" value="0203_알고리즘_Programmers풀이_13" />
   </component>
 </project>
