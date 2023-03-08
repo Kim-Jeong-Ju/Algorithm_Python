@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0224_알고리즘_Programmers풀이_17">
-      <change afterPath="$PROJECT_DIR$/038_disc_controller.py" afterDir="false" />
+    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0227_알고리즘_Programmers풀이_18">
+      <change afterPath="$PROJECT_DIR$/039_best_album.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Coding_Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Coding_Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +36,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/김정주/② Career/Coding_Test&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -177,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677237856443</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="0227_알고리즘_Programmers풀이_18">
+      <created>1677429737011</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1677429737011</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +217,7 @@
     <MESSAGE value="0214_알고리즘_Programmers풀이_15" />
     <MESSAGE value="0220_알고리즘_Programmers풀이_16" />
     <MESSAGE value="0224_알고리즘_Programmers풀이_17" />
-    <option name="LAST_COMMIT_MESSAGE" value="0224_알고리즘_Programmers풀이_17" />
+    <MESSAGE value="0227_알고리즘_Programmers풀이_18" />
+    <option name="LAST_COMMIT_MESSAGE" value="0227_알고리즘_Programmers풀이_18" />
   </component>
 </project>
