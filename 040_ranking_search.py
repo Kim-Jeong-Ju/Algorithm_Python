@@ -1,4 +1,4 @@
-## 문제 039. 순위 검색 --- 프로그래머스 Lv.3 연습 문제
+## 문제 039. 순위 검색 --- 프로그래머스 Lv.2 연습 문제
 
 import copy
 from itertools import combinations
