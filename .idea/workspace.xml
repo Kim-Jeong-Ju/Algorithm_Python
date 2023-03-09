@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0308_알고리즘_Programmers풀이_19">
-      <change afterPath="$PROJECT_DIR$/040_ranking_search.py" afterDir="false" />
+    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0309_알고리즘_Programmers풀이_20">
+      <change afterPath="$PROJECT_DIR$/041_lock_and_key.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +191,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678259136286</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="0309_알고리즘_Programmers풀이_20">
+      <created>1678292060869</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1678292060869</updated>
+    </task>
+    <task id="LOCAL-00022" summary="0309_알고리즘_Programmers풀이_20">
+      <created>1678292072869</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678292072869</updated>
+    </task>
+    <task id="LOCAL-00023" summary="0309_알고리즘_Programmers풀이_20">
+      <created>1678292093644</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678292093644</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +245,7 @@
     <MESSAGE value="0224_알고리즘_Programmers풀이_17" />
     <MESSAGE value="0227_알고리즘_Programmers풀이_18" />
     <MESSAGE value="0308_알고리즘_Programmers풀이_19" />
-    <option name="LAST_COMMIT_MESSAGE" value="0308_알고리즘_Programmers풀이_19" />
+    <MESSAGE value="0309_알고리즘_Programmers풀이_20" />
+    <option name="LAST_COMMIT_MESSAGE" value="0309_알고리즘_Programmers풀이_20" />
   </component>
 </project>
