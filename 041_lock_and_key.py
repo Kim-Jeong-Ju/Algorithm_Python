@@ -4,7 +4,6 @@ import copy
 
 def open_check(a, b, key, array, key_size, lock_size):
     origin = copy.deepcopy(array)
-    lock_sum = 0
 
     for row1 in range(key_size):
         for col1 in range(key_size):
