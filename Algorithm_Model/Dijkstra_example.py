@@ -12,7 +12,6 @@ start = int(input())
 
 
 
-
 graph1 = [[] for _ in range(node + 1)]       # graph 초기화
 visited = [False] * (node + 1)              # 방문 여부를 기록하는 list 초기화
 distance1 = [INF] * (node + 1)               # 최단 거리를 기록하는 table 초기화
@@ -53,6 +52,7 @@ for vertex in range(node + 1):
         print("INFINITE distance")
 
 
+# ==================================================================================================================== #
 
 
 graph2 = [[] for _ in range(node + 1)]       # graph 초기화
