@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0316_알고리즘_Programmers풀이_25">
-      <change afterPath="$PROJECT_DIR$/046_undestroyed_building.py" afterDir="false" />
+    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0319_알고리즘_Programmers풀이_26">
+      <change afterPath="$PROJECT_DIR$/047_install_pillar_and_barrage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678893247434</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="0319_알고리즘_Programmers풀이_26">
+      <created>1679228062566</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679228062566</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +300,7 @@
     <MESSAGE value="0313_알고리즘_Programmers풀이_23" />
     <MESSAGE value="0315_알고리즘_Programmers풀이_24" />
     <MESSAGE value="0316_알고리즘_Programmers풀이_25" />
-    <option name="LAST_COMMIT_MESSAGE" value="0316_알고리즘_Programmers풀이_25" />
+    <MESSAGE value="0319_알고리즘_Programmers풀이_26" />
+    <option name="LAST_COMMIT_MESSAGE" value="0319_알고리즘_Programmers풀이_26" />
   </component>
 </project>
