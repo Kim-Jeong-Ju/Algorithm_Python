@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0409_알고리즘_BOJ풀이_5">
-      <change afterPath="$PROJECT_DIR$/059_speak_center.py" afterDir="false" />
+    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0410_알고리즘_BOJ풀이_6">
+      <change afterPath="$PROJECT_DIR$/060_binomial_coefficient.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -345,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681043808231</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="0410_알고리즘_BOJ풀이_6">
+      <created>1681125473353</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1681125473353</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,7 +367,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="0212_알고리즘_Programmers풀이_14" />
     <MESSAGE value="0214_알고리즘_Programmers풀이_15" />
     <MESSAGE value="0220_알고리즘_Programmers풀이_16" />
     <MESSAGE value="0224_알고리즘_Programmers풀이_17" />
@@ -385,6 +391,7 @@
     <MESSAGE value="0406_알고리즘_BOJ풀이_3" />
     <MESSAGE value="0407_알고리즘_BOJ풀이_4" />
     <MESSAGE value="0409_알고리즘_BOJ풀이_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="0409_알고리즘_BOJ풀이_5" />
+    <MESSAGE value="0410_알고리즘_BOJ풀이_6" />
+    <option name="LAST_COMMIT_MESSAGE" value="0410_알고리즘_BOJ풀이_6" />
   </component>
 </project>
