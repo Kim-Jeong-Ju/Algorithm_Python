@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0509_알고리즘_Programmers풀이_48">
-      <change afterPath="$PROJECT_DIR$/075_obstacle_recognize.py" afterDir="false" />
+    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0513_알고리즘_Softeer풀이_1">
+      <change afterPath="$PROJECT_DIR$/076_connect_island.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674373189182</updated>
-    </task>
-    <task id="LOCAL-00010" summary="0131_알고리즘_Programmers풀이_10">
-      <created>1675097287860</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1675097287860</updated>
     </task>
     <task id="LOCAL-00011" summary="0202_알고리즘_SWEA풀이_1">
       <created>1675346011259</created>
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683694199457</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="0513_알고리즘_Softeer풀이_1">
+      <created>1683920889119</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1683920889120</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="0323_알고리즘_Programmers풀이_30" />
     <MESSAGE value="0324_알고리즘_Programmers풀이_31" />
     <MESSAGE value="0325_알고리즘_Programmers풀이_32" />
     <MESSAGE value="0327_알고리즘_Programmers풀이_33" />
@@ -434,6 +433,7 @@
     <MESSAGE value="0506_알고리즘_Programmers풀이_46" />
     <MESSAGE value="0508_알고리즘_Programmers풀이_47" />
     <MESSAGE value="0509_알고리즘_Programmers풀이_48" />
-    <option name="LAST_COMMIT_MESSAGE" value="0509_알고리즘_Programmers풀이_48" />
+    <MESSAGE value="0513_알고리즘_Softeer풀이_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0513_알고리즘_Softeer풀이_1" />
   </component>
 </project>
