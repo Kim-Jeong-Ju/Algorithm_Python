@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0527_알고리즘_Programmers풀이_52">
-      <change afterPath="$PROJECT_DIR$/080_rentable_hotel_room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/081_escape_maze.py" afterDir="false" />
+    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0601_알고리즘_Programmers풀이_53">
+      <change afterPath="$PROJECT_DIR$/082_multilevel_toothbrush_selling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674373189182</updated>
-    </task>
-    <task id="LOCAL-00015" summary="0212_알고리즘_Programmers풀이_14">
-      <created>1676167717201</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1676167717201</updated>
     </task>
     <task id="LOCAL-00016" summary="0214_알고리즘_Programmers풀이_15">
       <created>1676377440641</created>
@@ -395,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685117001892</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="0601_알고리즘_Programmers풀이_53">
+      <created>1685547351504</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1685547351505</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="0404_알고리즘_Programmers풀이_35" />
     <MESSAGE value="0406_알고리즘_BOJ풀이_3" />
     <MESSAGE value="0407_알고리즘_BOJ풀이_4" />
     <MESSAGE value="0409_알고리즘_BOJ풀이_5" />
@@ -435,6 +433,7 @@
     <MESSAGE value="0524_알고리즘_Programmers풀이_50" />
     <MESSAGE value="0524_알고리즘_Programmers풀이_51" />
     <MESSAGE value="0527_알고리즘_Programmers풀이_52" />
-    <option name="LAST_COMMIT_MESSAGE" value="0527_알고리즘_Programmers풀이_52" />
+    <MESSAGE value="0601_알고리즘_Programmers풀이_53" />
+    <option name="LAST_COMMIT_MESSAGE" value="0601_알고리즘_Programmers풀이_53" />
   </component>
 </project>
