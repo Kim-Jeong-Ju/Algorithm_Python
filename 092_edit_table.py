@@ -49,11 +49,3 @@ def solution(n, k, commands):
 
     answer = "".join(answer)
     return answer
-
-
-n1, k1, commands1 = 8, 2, ["D 2", "C", "U 3", "C", "D 4", "C", "U 2", "Z", "Z"]
-print(solution(n1, k1, commands1))
-print()
-
-n2, k2, commands2 = 8, 2, ["D 2", "C", "U 3", "C", "D 4", "C", "U 2", "Z", "Z", "U 1", "C"]
-print(solution(n1, k1, commands2))
