@@ -1,4 +1,4 @@
-## 문제 099. 이모티콘 할인행사 --- 프로그래머스 Lv.2 연습 문제
+## 문제 099. 가장 많이 받은 선물 --- 프로그래머스 Lv.1 연습 문제
 
 from itertools import product
 
@@ -23,13 +23,3 @@ def solution(users, emoticons):
 
     answer = sorted(result, reverse=True, key=lambda x: (x[0], x[1]))[0]
     return answer
-
-
-users1 = [[40, 10000], [25, 10000]]
-emoticons1 = [7000, 9000]
-print(solution(users1, emoticons1))
-print()
-
-users2 = [[40, 2900], [23, 10000], [11, 5200], [5, 5900], [40, 3100], [27, 9200], [32, 6900]]
-emoticons2 = [1300, 1500, 1600, 4900]
-print(solution(users2, emoticons2))
