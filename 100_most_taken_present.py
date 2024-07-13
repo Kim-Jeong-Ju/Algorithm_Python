@@ -1,4 +1,4 @@
-## 문제 099. 가장 많이 받은 선물 --- 프로그래머스 Lv.1 연습 문제
+## 문제 100. 가장 많이 받은 선물 --- 프로그래머스 Lv.1 연습 문제
 
 from itertools import combinations
 
