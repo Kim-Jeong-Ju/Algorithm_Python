@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0713_알고리즘_Programmers풀이_68">
-      <change afterPath="$PROJECT_DIR$/102_pair_of_prime_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/103_sample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/102_pair_of_prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/102_pair_of_prime_number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674373189182</updated>
-    </task>
-    <task id="LOCAL-00034" summary="0323_알고리즘_Programmers풀이_30">
-      <created>1679513339390</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1679513339390</updated>
     </task>
     <task id="LOCAL-00035" summary="0324_알고리즘_Programmers풀이_31">
       <created>1679585382934</created>
@@ -401,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720876369920</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="0713_알고리즘_Programmers풀이_68">
+      <created>1721492303635</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1721492303636</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,4 +1,4 @@
-## 문제 097. Addition Cycle --- 백준 No.1110
+## 문제 102. Addition Cycle --- 백준 No.1110
 
 cycle = 0
 
