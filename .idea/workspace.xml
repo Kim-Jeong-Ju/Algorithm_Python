@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0713_알고리즘_Programmers풀이_68">
-      <change afterPath="$PROJECT_DIR$/103_sample.py" afterDir="false" />
+    <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0721_알고리즘_Programmers풀이_69">
+      <change afterPath="$PROJECT_DIR$/103_lost_bracket.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/102_pair_of_prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/102_pair_of_prime_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/102_pair_of_prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/102_addition_cycle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674373189182</updated>
-    </task>
-    <task id="LOCAL-00035" summary="0324_알고리즘_Programmers풀이_31">
-      <created>1679585382934</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1679585382934</updated>
     </task>
     <task id="LOCAL-00036" summary="0325_알고리즘_Programmers풀이_32">
       <created>1679731920838</created>
@@ -402,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721492303636</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="0721_알고리즘_Programmers풀이_69">
+      <created>1721494795510</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1721494795510</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,7 +417,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="0509_알고리즘_Programmers풀이_48" />
     <MESSAGE value="0513_알고리즘_Softeer풀이_1" />
     <MESSAGE value="0522_알고리즘_Programmers풀이_49" />
     <MESSAGE value="0524_알고리즘_Programmers풀이_50" />
@@ -442,6 +441,7 @@
     <MESSAGE value="0101_알고리즘_Programmers풀이_66" />
     <MESSAGE value="0217_알고리즘_Programmers풀이_67" />
     <MESSAGE value="0713_알고리즘_Programmers풀이_68" />
-    <option name="LAST_COMMIT_MESSAGE" value="0713_알고리즘_Programmers풀이_68" />
+    <MESSAGE value="0721_알고리즘_Programmers풀이_69" />
+    <option name="LAST_COMMIT_MESSAGE" value="0721_알고리즘_Programmers풀이_69" />
   </component>
 </project>
