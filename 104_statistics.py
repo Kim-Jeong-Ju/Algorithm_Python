@@ -1,4 +1,4 @@
-## 문제 104. 약수 --- 백준 No.1037
+## 문제 104. 통계학 --- 백준 No.2108
 
 import sys
 input = sys.stdin.readline

@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0304_알고리즘_Programmers풀이_70">
-      <change afterPath="$PROJECT_DIR$/104_statistics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/104_statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/104_statistics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674373189182</updated>
-    </task>
-    <task id="LOCAL-00037" summary="0327_알고리즘_Programmers풀이_33">
-      <created>1679924837217</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1679924837217</updated>
     </task>
     <task id="LOCAL-00038" summary="0329_알고리즘_Programmers풀이_34">
       <created>1680017830411</created>
@@ -402,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741095257833</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="0304_알고리즘_Programmers풀이_70">
+      <created>1753023150217</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1753023150218</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
