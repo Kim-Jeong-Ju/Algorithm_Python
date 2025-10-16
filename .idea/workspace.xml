@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18d7ccfa-388e-4ce1-8fe4-163606d77705" name="Changes" comment="0720_알고리즘_BOJ풀이_12">
-      <change afterPath="$PROJECT_DIR$/105_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/106_what_is_your_grade.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
